@@ -5,5 +5,5 @@
  ##### Note
  ###### Footer Info
 
- ![Alt text describing the image](https://example.com/image.png)
+ ![Alt text describing the image]([https://example.com/image.png](https://octodex.github.com/images/yaktocat.png))
  
